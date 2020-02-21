@@ -6,8 +6,10 @@ namespace ConsoleApp1Core
     {
         static void Main(string[] args)
         {
-            int a;
-            int b;
+            int a = 3;
+            int b  =4;
+
+            Console.WriteLine(a + b);
 
             Console.WriteLine("Hello World!");
         }
